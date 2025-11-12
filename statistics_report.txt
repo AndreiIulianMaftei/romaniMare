@@ -1,0 +1,139 @@
+================================================================================
+DACIA REGION CITIES - COMPREHENSIVE STATISTICS REPORT
+================================================================================
+
+--------------------------------------------------------------------------------
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total Cities:              6,710
+Total Population:          40,984,505
+Average Population:        6,107
+Median Population:         2,239
+Average Elevation:         179 meters
+Maximum Elevation:         1,183 meters
+Cities > 100K population:  42
+Cities > 50K population:   104
+Cities > 10K population:   473
+
+--------------------------------------------------------------------------------
+STATISTICS BY COUNTRY
+--------------------------------------------------------------------------------
+
+Country: RO
+  Number of Cities:        4,296
+  Total Population:        19,258,537
+  Average Population:      4,482
+  Median Population:       2,137
+  Max Population:          1,877,155
+  Min Population:          850
+  Average Elevation:       324 meters
+  Max Elevation:           837 meters
+  Largest City:            Bucharest
+  % of Total Cities:       64.0%
+  % of Total Population:   47.0%
+
+Country: HU
+  Number of Cities:        941
+  Total Population:        9,632,830
+  Average Population:      10,236
+  Median Population:       2,992
+  Max Population:          1,741,041
+  Min Population:          852
+  Average Elevation:       124 meters
+  Max Elevation:           160 meters
+  Largest City:            Budapest
+  % of Total Cities:       14.0%
+  % of Total Population:   23.5%
+
+Country: UA
+  Number of Cities:        837
+  Total Population:        4,389,286
+  Average Population:      5,244
+  Median Population:       1,831
+  Max Population:          1,015,826
+  Min Population:          501
+  Average Elevation:       178 meters
+  Max Elevation:           1,183 meters
+  Largest City:            Odesa
+  % of Total Cities:       12.5%
+  % of Total Population:   10.7%
+
+Country: RS
+  Number of Cities:        287
+  Total Population:        3,750,853
+  Average Population:      13,069
+  Median Population:       2,280
+  Max Population:          1,273,651
+  Min Population:          0
+  Average Elevation:       202 meters
+  Max Elevation:           270 meters
+  Largest City:            Belgrade
+  % of Total Cities:       4.3%
+  % of Total Population:   9.2%
+
+Country: MD
+  Number of Cities:        80
+  Total Population:        1,865,898
+  Average Population:      23,323
+  Median Population:       9,631
+  Max Population:          635,994
+  Min Population:          815
+  Average Elevation:       90 meters
+  Max Elevation:           90 meters
+  Largest City:            Chisinau
+  % of Total Cities:       1.2%
+  % of Total Population:   4.6%
+
+Country: BG
+  Number of Cities:        122
+  Total Population:        1,483,824
+  Average Population:      12,162
+  Median Population:       3,612
+  Max Population:          312,770
+  Min Population:          0
+  Average Elevation:       102 meters
+  Max Elevation:           155 meters
+  Largest City:            Varna
+  % of Total Cities:       1.8%
+  % of Total Population:   3.6%
+
+Country: SK
+  Number of Cities:        114
+  Total Population:        562,659
+  Average Population:      4,935
+  Median Population:       1,911
+  Max Population:          86,329
+  Min Population:          510
+  Average Elevation:       121 meters
+  Max Elevation:           140 meters
+  Largest City:            Nitra
+  % of Total Cities:       1.7%
+  % of Total Population:   1.4%
+
+Country: HR
+  Number of Cities:        28
+  Total Population:        34,557
+  Average Population:      1,234
+  Median Population:       750
+  Max Population:          6,327
+  Min Population:          63
+  Average Elevation:       0 meters
+  Max Elevation:           0 meters
+  Largest City:            Beli Manastir
+  % of Total Cities:       0.4%
+  % of Total Population:   0.1%
+
+Country: SI
+  Number of Cities:        5
+  Total Population:        6,061
+  Average Population:      1,212
+  Median Population:       812
+  Max Population:          3,129
+  Min Population:          633
+  Average Elevation:       158 meters
+  Max Elevation:           158 meters
+  Largest City:            Lendava
+  % of Total Cities:       0.1%
+  % of Total Population:   0.0%
+
+================================================================================

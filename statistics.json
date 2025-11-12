@@ -1,0 +1,114 @@
+{
+  "total_cities": 6710,
+  "total_population": 40984505,
+  "countries": {
+    "BG": {
+      "city_count": 122,
+      "total_population": 1483824,
+      "avg_population": 12162,
+      "median_population": 3612,
+      "max_population": 312770,
+      "min_population": 0,
+      "avg_elevation": 102,
+      "max_elevation": 155,
+      "largest_city": "Varna"
+    },
+    "HR": {
+      "city_count": 28,
+      "total_population": 34557,
+      "avg_population": 1234,
+      "median_population": 750,
+      "max_population": 6327,
+      "min_population": 63,
+      "avg_elevation": 0,
+      "max_elevation": 0,
+      "largest_city": "Beli Manastir"
+    },
+    "HU": {
+      "city_count": 941,
+      "total_population": 9632830,
+      "avg_population": 10236,
+      "median_population": 2992,
+      "max_population": 1741041,
+      "min_population": 852,
+      "avg_elevation": 124,
+      "max_elevation": 160,
+      "largest_city": "Budapest"
+    },
+    "MD": {
+      "city_count": 80,
+      "total_population": 1865898,
+      "avg_population": 23323,
+      "median_population": 9631,
+      "max_population": 635994,
+      "min_population": 815,
+      "avg_elevation": 90,
+      "max_elevation": 90,
+      "largest_city": "Chisinau"
+    },
+    "RO": {
+      "city_count": 4296,
+      "total_population": 19258537,
+      "avg_population": 4482,
+      "median_population": 2137,
+      "max_population": 1877155,
+      "min_population": 850,
+      "avg_elevation": 324,
+      "max_elevation": 837,
+      "largest_city": "Bucharest"
+    },
+    "RS": {
+      "city_count": 287,
+      "total_population": 3750853,
+      "avg_population": 13069,
+      "median_population": 2280,
+      "max_population": 1273651,
+      "min_population": 0,
+      "avg_elevation": 202,
+      "max_elevation": 270,
+      "largest_city": "Belgrade"
+    },
+    "SI": {
+      "city_count": 5,
+      "total_population": 6061,
+      "avg_population": 1212,
+      "median_population": 812,
+      "max_population": 3129,
+      "min_population": 633,
+      "avg_elevation": 158,
+      "max_elevation": 158,
+      "largest_city": "Lendava"
+    },
+    "SK": {
+      "city_count": 114,
+      "total_population": 562659,
+      "avg_population": 4935,
+      "median_population": 1911,
+      "max_population": 86329,
+      "min_population": 510,
+      "avg_elevation": 121,
+      "max_elevation": 140,
+      "largest_city": "Nitra"
+    },
+    "UA": {
+      "city_count": 837,
+      "total_population": 4389286,
+      "avg_population": 5244,
+      "median_population": 1831,
+      "max_population": 1015826,
+      "min_population": 501,
+      "avg_elevation": 178,
+      "max_elevation": 1183,
+      "largest_city": "Odesa"
+    }
+  },
+  "overall": {
+    "avg_population": 6107,
+    "median_population": 2239,
+    "avg_elevation": 179,
+    "max_elevation": 1183,
+    "cities_over_100k": 42,
+    "cities_over_50k": 104,
+    "cities_over_10k": 473
+  }
+}
